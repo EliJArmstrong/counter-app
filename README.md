@@ -1,7 +1,7 @@
 # Counter App
 
 This is a basic counter app make with React. The functionality is close to an e-commerce site's shopping cart.
-<img src="/gif/counter.gif?raw=true" width="" alt= 'Video Walkthrough'>
+[<img src="/gif/counter.gif?raw=true" width="" alt= 'Video Walkthrough'>](https://elijarmstrong.github.io/counter-app/)
 
 ## Getting Started
 

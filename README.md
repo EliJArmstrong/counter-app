@@ -32,7 +32,7 @@ npm start
 ```
 
 This will open a webpage on your default browser.
-THe code to mess with the object are in the scr file.
+The code to mess with the objects are in the scr file.
 The documents should be helpful in order to ajust the code as you see fix.
 
 ## License
